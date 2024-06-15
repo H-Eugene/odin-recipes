@@ -1,0 +1,35 @@
+body {
+    background-color: #f4ff7b;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    background-color: rgb(0, 255, 170);
+    font-size: 80px;
+    text-align: center;
+    width: 1500px;
+    margin: 40px auto 100px;
+    padding: 10px 0px;
+}
+h1,h2,h3,h4,h5,h6,
+li,p,a {
+    color: #000000;
+}
+a {
+    display: block;
+    width: 400px;
+    margin: 20px auto;
+    padding: 20px 0px;
+    font-size: 60px;
+    text-align: center;
+    background-color: rgb(0, 255, 170);
+    text-decoration: none;
+}
+li {
+    font-size: 30px;
+}
+h2 {
+    font-size: 50px;
+}
+p {
+    font-size: 30px;
+}
